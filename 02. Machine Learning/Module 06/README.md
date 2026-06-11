@@ -112,4 +112,4 @@ IQR পদ্ধতি ডেটাকে ৪টি সমান ভাগে (P
 
 ---
 
-*বিস্তারিত কোড এবং ধাপসমূহ জানতে [Practice_Problem_Guide_বিস্তারিত_নির্দেশিকা.md](file:///Users/masudrana/Desktop/Programming/AI-ML/02.%20Machine%20Learning/Module%2006/Practice_Problem_Guide_%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%A4_%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A6%BE.md) গাইডলাইনটি পড়ুন।*
+*বিস্তারিত কোড এবং ধাপসমূহ জানতে [Practice_Problem_Guide_বিস্তারিত_নির্দেশিকা.md](./Practice_Problem_Guide_বিস্তারিত_নির্দেশিকা.md) গাইডলাইনটি পড়ুন।*
